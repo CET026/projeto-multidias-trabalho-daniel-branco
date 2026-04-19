@@ -1,1 +1,2 @@
-Isto é o ficheiro de planeamento.
+Isto é o ficheiro de planeamento (frase atualizada).
+Isto é uma nova frase.
